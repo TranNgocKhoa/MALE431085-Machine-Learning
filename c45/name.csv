@@ -1,0 +1,31 @@
+malignant, benign
+mean radius : continuous
+mean texture : continuous
+mean perimeter : continuous
+mean area : continuous
+mean smoothness : continuous
+mean compactness : continuous
+mean concavity : continuous
+mean concave points : continuous
+mean symmetry : continuous
+mean fractal dimension : continuous
+radius error : continuous
+texture error : continuous
+perimeter error : continuous
+area error : continuous
+smoothness error : continuous
+compactness error : continuous
+concavity error : continuous
+concave points error : continuous
+symmetry error : continuous
+fractal dimension error : continuous
+worst radius : continuous
+worst texture : continuous
+worst perimeter : continuous
+worst area : continuous
+worst smoothness : continuous
+worst compactness : continuous
+worst concavity : continuous
+worst concave points : continuous
+worst symmetry : continuous
+worst fractal dimension : continuous
